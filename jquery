@@ -12,3 +12,13 @@ $(document).ready(() => {
   let $navDropdown = $('#nav-dropdown');
   $navDropdown.hide()
 });
+____________________
+$(document).ready(() => {
+  const $menuButton = $('.menu-button');
+  const $navDropdown = $('#nav-dropdown');
+$menuButton.on('click', () => {
+ navDropdown.show();
+})
+
+
+})
