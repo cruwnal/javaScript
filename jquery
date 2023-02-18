@@ -6,3 +6,9 @@ ___________
 $(document).ready(() => {
 $('#nav-dropdown').hide()
 });
+________________
+
+$(document).ready(() => {
+  let $navDropdown = $('#nav-dropdown');
+  $navDropdown.hide()
+});
