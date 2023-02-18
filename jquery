@@ -1,3 +1,8 @@
 $(document).ready(() => {
 $('.product-photo').show()
 });
+___________
+
+$(document).ready(() => {
+$('#nav-dropdown').hide()
+});
