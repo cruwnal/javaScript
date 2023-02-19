@@ -72,3 +72,10 @@ $('#account').on('mouseleave',()=>{
   })
 })
 
+___________________________________
+
+$(document).ready(() => {
+  $('.hide-button').on('click',()=>{
+    $('.first-image').hide()
+  })
+});
