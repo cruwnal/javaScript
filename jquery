@@ -1,7 +1,11 @@
+<script src="https://gist.github.com/codecademydev/93d1caa2439f0dc86eac6dbf87c4ef99.js"></script>
+______
+
 $(document).ready(() => {
 $('.product-photo').show()
 });
 ___________
+
 
 $(document).ready(() => {
 $('#nav-dropdown').hide()
