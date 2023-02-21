@@ -249,3 +249,10 @@ $('.correct-answer').on('dblclick',()=>{
   $('.wrong-text-three').fadeIn('fast');
 })
 });
+
+______________
+
+select now();
+
+select 
+where substring(replace(now()::text,'-','') from 0 for 7)=
